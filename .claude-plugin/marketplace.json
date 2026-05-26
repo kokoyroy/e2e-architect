@@ -1,0 +1,31 @@
+{
+  "name": "e2e-architect",
+  "owner": {
+    "name": "kokoyroy"
+  },
+  "metadata": {
+    "description": "Business-aware E2E test generation — understands your product before writing tests",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "e2e-architect",
+      "source": "./",
+      "description": "Generate E2E tests that validate real business flows. Three modes: discover (scan repo, build flow map), generate (create Playwright tests), audit (classify existing tests as business-aligned, shallow, zombie, or missing).",
+      "version": "1.0.0",
+      "author": {
+        "name": "kokoyroy"
+      },
+      "keywords": [
+        "e2e",
+        "testing",
+        "playwright",
+        "business-logic",
+        "test-generation",
+        "test-audit",
+        "saas"
+      ],
+      "category": "testing"
+    }
+  ]
+}

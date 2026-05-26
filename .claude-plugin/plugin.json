@@ -1,0 +1,21 @@
+{
+  "name": "e2e-architect",
+  "description": "Generate business-aware E2E tests by understanding your SaaS product first. Discover business flows, generate Playwright tests that validate real user journeys, and audit existing tests for coverage gaps.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kokoyroy"
+  },
+  "license": "MIT",
+  "keywords": [
+    "e2e",
+    "testing",
+    "playwright",
+    "business-logic",
+    "test-generation",
+    "test-audit",
+    "saas"
+  ],
+  "skills": [
+    "./skills/e2e-architect"
+  ]
+}
